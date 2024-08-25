@@ -17,6 +17,6 @@ public class SizeOfFile {
 		System.out.println((double)bytes/1024+" kb");
 		System.out.println(((double)bytes/1024)/1024+" mb");
 		System.out.println("success");
-		
+		System.out.println(" ");
 	}
 }
